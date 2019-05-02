@@ -1,2 +1,2 @@
 # aws-python
-AWS Python
+Repository dor Automationg AWS with Python
